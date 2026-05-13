@@ -1,4 +1,10 @@
-# Attus Users
+# Avaliação Técnica - Attus 
+
+## Questões de Conhecimento
+
+As respostas para as demais questões que estavam no documento se encontram aqui: [QUESTOES_RESPOSTAS.md](./QUESTOES_RESPOSTAS.md)
+
+## Desafio Prático - Attus Users
 
 Aplicação Angular para gerenciamento de usuários. Permite listar, cadastrar e editar usuários com validação de CPF, máscara de campos e busca em tempo real.
 
